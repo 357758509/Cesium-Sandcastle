@@ -1,0 +1,36 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "path": "/FlyingRoam/index",
+            "name": "FlyingRoam",
+            "component": "/FlyingRoam/index",
+            "meta": {
+                    "icon": "icon-shujujieru",
+                    "title": "飞行漫游",
+                    "isLink": "",
+                    "isHide": false,
+                    "isFull": false,
+                    "isAffix": false,
+                    "isKeepAlive": true
+            }
+        },
+        {
+            "path": "/home/index",
+            "name": "home",
+            "component": "/home/index",
+            "meta": {
+                "icon": "icon-shouye",
+                "title": "首页",
+                "isLink": "",
+                "isHide": false,
+                "isFull": false,
+                "isAffix": true,
+                "isKeepAlive": true
+            }
+        }
+       
+			
+    ],
+    "msg": "成功"
+}

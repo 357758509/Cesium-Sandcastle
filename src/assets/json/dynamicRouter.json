@@ -1,0 +1,48 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "path": "/FlyingRoam/index",
+            "name": "FlyingRoam",
+            "component": "/FlyingRoam/index",
+            "meta": {
+                    "icon": "icon-shujujieru",
+                    "title": "飞行漫游",
+                    "isLink": "",
+                    "isHide": false,
+                    "isFull": false,
+                    "isAffix": false,
+                    "isKeepAlive": true
+            }
+        },
+        {
+            "path": "/Level",
+            "name": "Level",
+            "component": "/Level/index",
+            "meta": {
+                    "icon": "icon-shujuchuli",
+                    "title": "图层",
+                    "isLink": "",
+                    "isHide": false,
+                    "isFull": false,
+                    "isAffix": false,
+                    "isKeepAlive": true
+            }
+        },
+        {
+            "path": "/Other",
+            "name": "Other",
+            "component": "/Other/index",
+            "meta": {
+                    "icon": "icon-renwuguanli",
+                    "title": "其他",
+                    "isLink": "",
+                    "isHide": false,
+                    "isFull": false,
+                    "isAffix": false,
+                    "isKeepAlive": true
+            }
+        }
+    ],
+    "msg": "成功"
+}
